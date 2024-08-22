@@ -2,7 +2,7 @@
 <h3 align="center">A passionate about web development and still learning</h3>
 
 # 💫 About Me:
-🔭 I’m currently training on Enigma Camp<br>🌱 I’m currently learning Java, React and React Native
+🔭 I’m currently training on Enigma Camp<br>🌱 I’m currently learning Java, React, React Native and Angular
 
 
 ## 🌐 Socials:
